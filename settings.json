@@ -1,0 +1,15 @@
+{
+    "name": "beemo",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/symbol": "BMO",
+        "/category/asset_value_tracking/core-token/name": "beemo",
+        "/category/asset_value_tracking/core-token/decimals": "14",
+        "/category/asset_value_tracking/core-token/supply": "100000"
+    }
+}
